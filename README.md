@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="assets/azroxspy-banner.png" width="100%" alt="AzroxSpy Cyber Banner"/>
-
 <br/>
 
 # ⌁ AZROXSPY
