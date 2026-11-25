@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/azroxspy-banner.png" width="100%" alt="AzroxSpy Cyber Intelligence Banner"/>
+<img src="assets/1795596422440.jpg" width="100%" alt="AzroxSpy Cyber Intelligence Banner"/>
 
 # `AZROXSPY`
 
